@@ -401,6 +401,7 @@ crackmapexec winrm <IP> -d <Domain Name> -u usernames.txt -p passwords.txt
 * [~~http://hashtoolkit.com/reverse-hash?~~](http://hashtoolkit.com/reverse-hash?) \(MD5 & SHA1\)
 * [https://www.onlinehashcrack.com/](https://www.onlinehashcrack.com/) \(Hashes, WPA2 captures, and archives MSOffice, ZIP, PDF...\)
 * [https://crackstation.net/](https://crackstation.net/) \(Hashes\)
+* [https://md5hashing.net/](https://md5hashing.net/) \(Hashes\)
 * [https://md5decrypt.net/](https://md5decrypt.net/) \(MD5\)
 * [https://gpuhash.me/](https://gpuhash.me/) \(Hashes and file hashes\)
 * [https://hashes.org/search.php](https://hashes.org/search.php) \(Hashes\)
